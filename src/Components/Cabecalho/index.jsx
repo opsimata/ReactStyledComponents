@@ -33,7 +33,6 @@ const Cabecalho = () => {
   return (
     <StyledHeader>
       <Logo src={bank_logo} alt="Logo Smart Bank" />
-
       <div>
         <BtnCabecalho primary href="https://google.com">
           Ajuda
